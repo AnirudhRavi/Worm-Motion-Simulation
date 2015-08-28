@@ -8,7 +8,7 @@
 
 The scene consists of a grass field having 2 flower pots and the worm’s house along with a path leading to the house.
 
-*Worm*
+*Worm*:
 
 The worm is drawn using 3 ellipsoids. An orange torus ring is drawn as the worm’s scales so as to enhance the worm’s look.
 
